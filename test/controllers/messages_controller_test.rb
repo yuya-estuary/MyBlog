@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class MessagesControllerTest < ActionDispatch::IntegrationTest
+class ontrollerTest < ActionDispatch::IntegrationTest
   setup do
     @message = messages(:one)
   end
